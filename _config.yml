@@ -1,0 +1,10 @@
+version:     "0001--5-Mar-2023"
+copyright:   "2023"
+author:      "Benedictus Jevan Winata"
+title:       "Portofolio PPL"
+githublink:  "https://github.com/JevanWinata/PPL-Porto"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
