@@ -3,9 +3,9 @@
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[GITHUB]({{ site.githublink }})
+[LINKEDIN]({{ site.linkedinlink }}) ---
+[GITHUB]({{ site.githublink }}) ---
+[GITLAB]({{ site.gitlablink }})
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.

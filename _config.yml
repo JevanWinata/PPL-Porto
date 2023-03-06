@@ -1,10 +1,12 @@
-version:     "0001--5-Mar-2023"
-copyright:   "2023"
-author:      "Benedictus Jevan Winata"
-title:       "Portofolio PPL"
-githublink:  "https://github.com/JevanWinata/PPL-Porto"
-encoding:    UTF-8
-markdown:    kramdown
-input:       GFM
-hard_wrap:   false
-github:      [metadata]
+version:     	"0001--5-Mar-2023"
+copyright:   	"2023"
+author:      	"Benedictus Jevan Winata"
+title:       	"Portofolio PPL"
+githublink:  	"https://github.com/JevanWinata/PPL-Porto"
+gitlablink:  	"https://gitlab.cs.ui.ac.id/ppl-fasilkom-ui/2023/kelas-a/lidar"
+linkedinlink:	"https://www.linkedin.com/in/jevan-winata"
+encoding:    	UTF-8
+markdown:    	kramdown
+input:       	GFM
+hard_wrap:   	false
+github:      	[metadata]
